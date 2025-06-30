@@ -6,6 +6,12 @@ https://templatemo.com/tm-578-first-portfolio
 
 */
 
+/* Misal untuk judul di navbar atau hero */
+.site-title, 
+.hero-title, 
+.navbar-brand {
+  font-family: 'DM Serif Display', serif;
+}
 
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
@@ -20,7 +26,8 @@ https://templatemo.com/tm-578-first-portfolio
   --border-color:                 #e9eaeb;
   --featured-border-color:        #727aab;
 
-  --body-font-family:             'DM Serif Display', serif;
+  --body-font-family:             'DM Sans', sans-serif;
+
 
   --h1-font-size:                 62px;
   --h2-font-size:                 48px;
